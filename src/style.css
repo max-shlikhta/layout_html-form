@@ -1,5 +1,5 @@
 .legendField:not(:last-child) {
-  margin-block-end: 20px;
+  margin-bottom: 20px;
 }
 
 .formField:not(:last-child) {
