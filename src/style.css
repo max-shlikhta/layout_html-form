@@ -1,1 +1,8 @@
-/* styles go here */
+.legendField:not(:last-child) {
+  margin-block-end: 20px;
+}
+
+.formField:not(:last-child) {
+  display: block;
+  margin-bottom: 10px;
+}
